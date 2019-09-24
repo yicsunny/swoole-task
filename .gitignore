@@ -1,0 +1,13 @@
+#IDE配置文件
+.idea
+.idea/
+*.kde*
+*.sublime-*
+.DS_Store
+.php_cs.cache
+.project
+.buildpath
+.settings/
+.tern-project
+.phpstorm.meta.php
+.gitlab-ci.yml
